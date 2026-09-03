@@ -1,0 +1,8 @@
+[package]
+edition = "2024"
+name    = "dll_load"
+version = "0.1.0"
+
+[dependencies]
+goblin     = "0.10.7"
+libloading = "0.9.0"
