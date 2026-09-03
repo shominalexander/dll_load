@@ -1,8 +1,0 @@
-[package]
-edition = "2024"
-name    = "load_dll"
-version = "0.1.0"
-
-[dependencies]
-goblin     = "0.10.7"
-libloading = "0.8"
