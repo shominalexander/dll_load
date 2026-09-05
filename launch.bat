@@ -1,5 +1,5 @@
 echo on
 
-cargo run -- ".\CrySystem.dll"
+cargo run -- ".\local_ip_address.dll"
 
 pause
